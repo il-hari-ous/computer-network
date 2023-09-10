@@ -1,0 +1,4 @@
+Client is running
+Reading image from disk.
+Sending image to server. 
+Image sent to server.
